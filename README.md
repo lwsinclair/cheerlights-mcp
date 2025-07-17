@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cheerlights-cheerlights-mcp-badge.png)](https://mseep.ai/app/cheerlights-cheerlights-mcp)
+
 # CheerLights MCP Server
 
 A Model Context Protocol (MCP) server that allows Claude or other AI tools to interact with the CheerLights API. CheerLights is a global IoT project that synchronizes colors across connected lights worldwide.
